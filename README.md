@@ -1,0 +1,2 @@
+# skill
+AGI Skill
